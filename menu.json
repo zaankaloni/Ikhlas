@@ -1,0 +1,178 @@
+{
+  "categories": [
+    {
+      "id": "pizza",
+      "nameAr": "قسم البيتزا",
+      "items": [
+        {
+          "id": "pizza",
+          "nameAr": "بيتزا",
+          "hasTypes": true,
+          "types": ["فراخ", "هوت دوق", "خضار", "لحمه", "جبنه", "مشكله"],
+          "sizes": [
+            {
+              "nameAr": "صغير",
+              "price": 20000
+            },
+            {
+              "nameAr": "الوسط",
+              "price": 25000
+            },
+            {
+              "nameAr": "الكبيرة",
+              "price": 30000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fatayer",
+      "nameAr": "قسم الفطاير",
+      "items": [
+        {
+          "id": "shami_small",
+          "nameAr": "فطيرة شامية صغيرة",
+          "price": 10000
+        },
+        {
+          "id": "shami_jumbo",
+          "nameAr": "فطيرة شامية جامبو",
+          "price": 15000
+        },
+        {
+          "id": "fatayer_chicken",
+          "nameAr": "فطيرة فراخ",
+          "price": null
+        },
+        {
+          "id": "fatayer_meat",
+          "nameAr": "فطيرة لحمه",
+          "price": null
+        },
+        {
+          "id": "fatayer_cheese",
+          "nameAr": "فطيرة جبنه",
+          "price": null
+        },
+        {
+          "id": "fatayer_veg",
+          "nameAr": "فطيرة خضار",
+          "price": null
+        },
+        {
+          "id": "fatayer_mix",
+          "nameAr": "فطيرة مشكله",
+          "price": null
+        },
+        {
+          "id": "sweet_small",
+          "nameAr": "فطيرة حلوة صغيرة",
+          "price": 20000
+        },
+        {
+          "id": "sweet_big",
+          "nameAr": "فطيرة حلوة كبيرة",
+          "price": 30000
+        },
+        {
+          "id": "egyptian",
+          "nameAr": "فطيرة مصرية",
+          "price": 25000
+        },
+        {
+          "id": "nutella_roll",
+          "nameAr": "لفايف بالنوتيلا",
+          "price": 20000
+        },
+        {
+          "id": "basbousa_roll",
+          "nameAr": "لفايف بسبوسة",
+          "price": 20000
+        },
+        {
+          "id": "ikhlas_roll",
+          "nameAr": "لفايف الإخلاص",
+          "price": 25000
+        }
+      ]
+    },
+    {
+      "id": "sandwiches",
+      "nameAr": "قسم السندوتشات",
+      "items": [
+        {
+          "id": "burger_regular",
+          "nameAr": "بيرقر عادي",
+          "price": 10000
+        },
+        {
+          "id": "burger_jumbo",
+          "nameAr": "بيرقر جامبو",
+          "price": 15000
+        },
+        {
+          "id": "aqashi",
+          "nameAr": "اقاشي",
+          "price": 8000
+        },
+        {
+          "id": "wrapped_sandwich",
+          "nameAr": "سندوتش ملفوف",
+          "price": 15000
+        }
+      ]
+    },
+    {
+      "id": "juices",
+      "nameAr": "قسم العصاير",
+      "items": [
+        {
+          "id": "strawberry_milk",
+          "nameAr": "فروله بالحليب",
+          "price": 12000
+        },
+        {
+          "id": "strawberry_plain",
+          "nameAr": "فراوله ساده",
+          "price": 10000
+        },
+        {
+          "id": "strawberry_nutella",
+          "nameAr": "فراوله بالنوتيلا",
+          "price": 15000
+        },
+        {
+          "id": "strawberry_oreo",
+          "nameAr": "فراوله ب الاوريو",
+          "price": 15000
+        },
+        {
+          "id": "mango",
+          "nameAr": "مانجو",
+          "price": 10000
+        },
+        {
+          "id": "mango_milk",
+          "nameAr": "مانجو بالحليب",
+          "price": 12000
+        },
+        {
+          "id": "banana_milk",
+          "nameAr": "موز بالحليب",
+          "price": 8000
+        },
+        {
+          "id": "orange",
+          "nameAr": "برتقال",
+          "price": 7000
+        },
+        {
+          "id": "mix_juice",
+          "nameAr": "مشكل",
+          "price": 15000
+        }
+      ]
+    }
+  ]
+}
